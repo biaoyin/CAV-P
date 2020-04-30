@@ -1,0 +1,1 @@
+CAV-P is a joint optimization platform to jointly optimize traffic signal timings, trajectory planning and pedestrian crossings at intersections.
